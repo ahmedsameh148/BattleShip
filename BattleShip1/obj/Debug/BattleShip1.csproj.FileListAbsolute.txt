@@ -1,0 +1,47 @@
+E:\C++\BattleShip1\BattleShip1\bin\Debug\BattleShip1.exe.config
+E:\C++\BattleShip1\BattleShip1\bin\Debug\BattleShip1.exe
+E:\C++\BattleShip1\BattleShip1\bin\Debug\BattleShip1.pdb
+E:\C++\BattleShip1\BattleShip1\obj\Debug\BattleShip1.csprojResolveAssemblyReference.cache
+E:\C++\BattleShip1\BattleShip1\obj\Debug\BattleShip1.BattleShip.resources
+E:\C++\BattleShip1\BattleShip1\obj\Debug\BattleShip1.Properties.Resources.resources
+E:\C++\BattleShip1\BattleShip1\obj\Debug\BattleShip1.csproj.GenerateResource.Cache
+E:\C++\BattleShip1\BattleShip1\obj\Debug\BattleShip1.exe
+E:\C++\BattleShip1\BattleShip1\obj\Debug\BattleShip1.pdb
+C:\Users\Ahmed Saber\Downloads\BattleShip1\BattleShip1\bin\Debug\BattleShip1.exe
+C:\Users\Ahmed Saber\Downloads\BattleShip1\BattleShip1\bin\Debug\BattleShip1.exe.config
+C:\Users\Ahmed Saber\Downloads\BattleShip1\BattleShip1\obj\Debug\BattleShip1.BattleShip.resources
+C:\Users\Ahmed Saber\Downloads\BattleShip1\BattleShip1\obj\Debug\BattleShip1.Form2.resources
+C:\Users\Ahmed Saber\Downloads\BattleShip1\BattleShip1\obj\Debug\BattleShip1.Form3.resources
+C:\Users\Ahmed Saber\Downloads\BattleShip1\BattleShip1\obj\Debug\BattleShip1.Form4.resources
+C:\Users\Ahmed Saber\Downloads\BattleShip1\BattleShip1\obj\Debug\BattleShip1.Properties.Resources.resources
+C:\Users\Ahmed Saber\Downloads\BattleShip1\BattleShip1\obj\Debug\BattleShip1.csproj.GenerateResource.Cache
+C:\Users\Ahmed Saber\Downloads\BattleShip1\BattleShip1\obj\Debug\BattleShip1.exe
+C:\Users\Ahmed Saber\Downloads\BattleShip1\BattleShip1\obj\Debug\BattleShip1.pdb
+C:\Users\Ahmed Saber\Downloads\BattleShip1\BattleShip1\bin\Debug\BattleShip1.pdb
+C:\Users\Ahmed Saber\Downloads\BattleShip1\BattleShip1\obj\Debug\BattleShip1.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Saber\Downloads\BattleShip1\BattleShip1\obj\Debug\BattleShip1.Form5.resources
+C:\Users\Ahmed Saber\Downloads\BattleShip1\BattleShip1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ahmed Saber\Downloads\BattleShip1\BattleShip1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ahmed Saber\Downloads\BattleShip1\BattleShip1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ahmed Saber\Downloads\BattleShip1\BattleShip1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ahmed Saber\Downloads\BattleShip1\BattleShip1\obj\Debug\BattleShip1.csproj.ResolveComReference.cache
+C:\Users\Ahmed Saber\Downloads\BattleShip1\BattleShip1\obj\Debug\BattleShip1.Form6.resources
+C:\Users\ahmed_000\Desktop\BattleShip1\BattleShip1\bin\Debug\BattleShip1.exe.config
+C:\Users\ahmed_000\Desktop\BattleShip1\BattleShip1\obj\Debug\Interop.WMPLib.dll
+C:\Users\ahmed_000\Desktop\BattleShip1\BattleShip1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ahmed_000\Desktop\BattleShip1\BattleShip1\obj\Debug\BattleShip1.csproj.ResolveComReference.cache
+C:\Users\ahmed_000\Desktop\BattleShip1\BattleShip1\obj\Debug\BattleShip1.exe
+C:\Users\ahmed_000\Desktop\BattleShip1\BattleShip1\obj\Debug\BattleShip1.pdb
+C:\Users\ahmed_000\Desktop\BattleShip1\BattleShip1\bin\Debug\BattleShip1.exe
+C:\Users\ahmed_000\Desktop\BattleShip1\BattleShip1\bin\Debug\BattleShip1.pdb
+C:\Users\ahmed_000\Desktop\BattleShip1\BattleShip1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ahmed_000\Desktop\BattleShip1\BattleShip1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ahmed_000\Desktop\BattleShip1\BattleShip1\obj\Debug\BattleShip1.csprojResolveAssemblyReference.cache
+C:\Users\ahmed_000\Desktop\BattleShip1\BattleShip1\obj\Debug\BattleShip1.BattleShip.resources
+C:\Users\ahmed_000\Desktop\BattleShip1\BattleShip1\obj\Debug\BattleShip1.Form5.resources
+C:\Users\ahmed_000\Desktop\BattleShip1\BattleShip1\obj\Debug\BattleShip1.Properties.Resources.resources
+C:\Users\ahmed_000\Desktop\BattleShip1\BattleShip1\obj\Debug\BattleShip1.csproj.GenerateResource.Cache
+C:\Users\ahmed_000\Desktop\BattleShip1\BattleShip1\obj\Debug\BattleShip1.trailer_of_the_game.resources
+C:\Users\ahmed_000\Desktop\BattleShip1\BattleShip1\obj\Debug\BattleShip1.you_win.resources
+C:\Users\ahmed_000\Desktop\BattleShip1\BattleShip1\obj\Debug\BattleShip1.computer_is_the_winner.resources
+C:\Users\ahmed_000\Desktop\BattleShip1\BattleShip1\obj\Debug\BattleShip1.welcome_page.resources
